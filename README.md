@@ -36,7 +36,7 @@ Here’s a breakdown of what you’ll find inside:
 - **`Top Scorers Hat-tricks`**: Top scorers' hat-tricks highlight their exceptional ability to change the outcome of matches.
 - **`Top Scorers Assists`**: Top scorers’ assists show that they are not only goal scorers but also key players in building team attacks.
 - **`Clean Sheets`**: Clean sheets are a sign of excellent goalkeeper performance and the team’s defense in preventing opponent goals.
-- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`Monthly awards`**: Monthly awards are given to players who have shown outstanding performance throughout the month.
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀 
