@@ -28,7 +28,7 @@ This isn’t just a data dump—it’s a celebration of football and community!
 
 ## Repository Structure 🗂️
 Here’s a breakdown of what you’ll find inside:
-- **`data/`**: The heart of the project! This folder holds match results in files like `results-2024-2025.csv` or `matches.json`. 📈  
+- **`Team Info`**: Team info includes the name, home stadium, manager, and final position in the league table.  
 - **`docs/`**: Extra documentation, like guides on how to use the data or contribute. 📜  
 - **`scripts/`**: Any scripts we write to scrape or process data will live here. 💻  
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀  
