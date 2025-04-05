@@ -58,7 +58,7 @@ Here’s a little sneak peek of what the data might look like:
 ---
 
 ## Updates 📅
-We aim to update the data after every match week. Last update: **March 20, 2025**. If something’s missing, let us know—we’re on it! ⏳
+We aim to update the data after every match week. Last update: **2025**. If something’s missing, let us know—we’re on it! ⏳
 
 ---
 
@@ -97,5 +97,5 @@ We’re always happy to chat about football or data—or both!
 
 ---
 
-*Last Updated: March 20, 2025*  
+*Last Updated: 2025*  
 *Built with love for football and data!* ⚽📊
