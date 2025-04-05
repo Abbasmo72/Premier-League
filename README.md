@@ -31,7 +31,7 @@ Here’s a breakdown of what you’ll find inside:
 - **`Team Info`**: Team info includes the name, home stadium, manager, and final position in the league table.  
 - **`Personnel Kits Info`**: Personnel and kits info includes coaches, technical staff, and the design of home and away kits.  
 - **`LeagueTable`**: The league table shows the teams’ positions based on points, goal difference, and number of wins. 
-- **`README.md`**: You’re reading it right now—your guide to everything! 👀  
+- **`Results`**: The results of each week reflect the teams' performances in home and away matches.  
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀 
