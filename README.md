@@ -29,10 +29,12 @@ This isn’t just a data dump—it’s a celebration of football and community!
 ## Repository Structure 🗂️
 Here’s a breakdown of what you’ll find inside:
 - **`Team Info`**: Team info includes the name, home stadium, manager, and final position in the league table.  
-- **`docs/`**: Extra documentation, like guides on how to use the data or contribute. 📜  
+- **`Personnel Kits Info`**: Personnel and kits info includes coaches, technical staff, and the design of home and away kits.  
 - **`scripts/`**: Any scripts we write to scrape or process data will live here. 💻  
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀  
-
+- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`README.md`**: You’re reading it right now—your guide to everything! 👀 
 Each folder has its own details, so feel free to explore!
 
 ---
