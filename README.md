@@ -37,7 +37,7 @@ Here’s a breakdown of what you’ll find inside:
 - **`Top Scorers Assists`**: Top scorers’ assists show that they are not only goal scorers but also key players in building team attacks.
 - **`Clean Sheets`**: Clean sheets are a sign of excellent goalkeeper performance and the team’s defense in preventing opponent goals.
 - **`Monthly awards`**: Monthly awards are given to players who have shown outstanding performance throughout the month.
-- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`Annual Awards`**: Annual awards are presented to the best players, managers, and teams at the end of the league season.
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀 
 Each folder has its own details, so feel free to explore!
