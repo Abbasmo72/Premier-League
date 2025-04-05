@@ -33,6 +33,11 @@ Here’s a breakdown of what you’ll find inside:
 - **`LeagueTable`**: The league table shows the teams’ positions based on points, goal difference, and number of wins. 
 - **`Results`**: The results of each week reflect the teams' performances in home and away matches.  
 - **`Top Scorers Goals`**: Top scorers’ goals play a crucial role in their teams’ success and in deciding the league champion.
+- **`Top Scorers Hat-tricks`**: Top scorers' hat-tricks highlight their exceptional ability to change the outcome of matches.
+- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀 
 Each folder has its own details, so feel free to explore!
