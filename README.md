@@ -39,7 +39,7 @@ Here’s a breakdown of what you’ll find inside:
 - **`Monthly awards`**: Monthly awards are given to players who have shown outstanding performance throughout the month.
 - **`Annual Awards`**: Annual awards are presented to the best players, managers, and teams at the end of the league season.
 - **`PFA Team of the Year`**: The PFA Team of the Year consists of the best players from each position who have had outstanding performances throughout the season.
-- **`README.md`**: You’re reading it right now—your guide to everything! 👀 
+- **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
 Each folder has its own details, so feel free to explore!
 
 ---
