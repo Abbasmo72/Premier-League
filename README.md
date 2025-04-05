@@ -34,7 +34,7 @@ Here’s a breakdown of what you’ll find inside:
 - **`Results`**: The results of each week reflect the teams' performances in home and away matches.  
 - **`Top Scorers Goals`**: Top scorers’ goals play a crucial role in their teams’ success and in deciding the league champion.
 - **`Top Scorers Hat-tricks`**: Top scorers' hat-tricks highlight their exceptional ability to change the outcome of matches.
-- **`README.md`**: You’re reading it right now—your guide to everything! 👀
+- **`Top Scorers Assists`**: Top scorers’ assists show that they are not only goal scorers but also key players in building team attacks.
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
 - **`README.md`**: You’re reading it right now—your guide to everything! 👀
