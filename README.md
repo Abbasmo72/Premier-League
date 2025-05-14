@@ -58,7 +58,9 @@ Here’s a little sneak peek of what the data might look like:
 ---
 
 ## Updates 📅
-We aim to update the data after every match week. Last update: **2025**. If something’s missing, let us know—we’re on it! ⏳
+We try to update the data after each game week.
+Last updated: May 14, 2025.
+If we missed anything, let us know! ⏳
 
 ---
 
