@@ -99,5 +99,5 @@ We’re always happy to chat about football or data—or both!
 
 ---
 
-*Last Updated: 2025*  
+*Last Updated: May 14, 2025*  
 *Built with love for football and data!* ⚽📊
